@@ -17,10 +17,10 @@ Rewards will be distributed at the end of the bug bounty program.
 We will keep you updated on the status of your submitted issue.
 
 ## Submission Guidelines
-Use the following repository for submitting issues. You’ll need an account at https://github.com.
-https://github.com/tradestars-app/testnet-bounty/issues
+Use the following for submitting issues. https://github.com/tradestars-app/testnet-bounty/issues
 Please be as detailed as possible completing the bug report template provided and use clear, concise phrases when filing the bug report, how to reproduce it and your configured system settings at the moment.
 Also please include your ETH wallet address that we should use for reward distribution.
+
 ## Rewards
 Rewards will be based on severity which is derived from impact and likelihood.
 
@@ -32,7 +32,7 @@ Rewards will be based on severity which is derived from impact and likelihood.
 
 We have capped the amount of TSX reserved for this program at 100,000 TSX.
 
-# TESTNET BOUNTY REWARDS : 
+# Testnet Bounty Rewards: 
 
 ### Search enhancement 
 
