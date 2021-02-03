@@ -1,9 +1,9 @@
 # Bug Bounty
-
 To kick off the testnet release, we’re holding a bug bounty program with TSX rewards for our Community Developers to help ensure that TradeStars has no major bugs. This will run until mainnet is deployed or the amount of TSX reserved for the program (100,000) is accounted for.
 
 ## Bounty Program
 The bug bounty program will commence on January 25th, 2021, and run until mainnet launch. The scope of this program is to double-check functionality related to deposits, withdrawals, transactions and other functions. We are specifically looking for issues related to:
+
 - Security of user assets in the platform.
 - Issues around deposits and withdrawals, and transaction values.
 - General issues about deployment
@@ -18,7 +18,9 @@ We will keep you updated on the status of your submitted issue.
 
 ## Submission Guidelines
 Use the following for submitting issues. https://github.com/tradestars-app/testnet-bounty/issues
+
 Please be as detailed as possible completing the bug report template provided and use clear, concise phrases when filing the bug report, how to reproduce it and your configured system settings at the moment.
+
 Also please include your ETH wallet address that we should use for reward distribution.
 
 ## Rewards
