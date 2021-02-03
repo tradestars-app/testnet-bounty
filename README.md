@@ -1,6 +1,3 @@
-# testnet-bounty
-Testnet bounty
-
 # Bug Bounty
 
 To kick off the testnet release, we’re holding a bug bounty program with TSX rewards for our Community Developers to help ensure that TradeStars has no major bugs. This will run until mainnet is deployed or the amount of TSX reserved for the program (100,000) is accounted for.
@@ -34,3 +31,13 @@ Rewards will be based on severity which is derived from impact and likelihood.
 - Help Document Building(FAQ/White Papers/Help): Valid comments which help develop the documents better. Up to 200 TSX
 
 We have capped the amount of TSX reserved for this program at 100,000 TSX.
+
+# TESTNET BOUNTY REWARDS : 
+
+### Search enhancement 
+Link: [https://github.com/tradestars-app/testnet-bounty/issues/4](https://github.com/tradestars-app/testnet-bounty/issues/4)
+Wallet: 0xD04433D5a60ADf6410c5b4A546562C18E69c8827
+
+### Showing welcome popup to v1 users
+Link: [https://github.com/tradestars-app/testnet-bounty/issues/1#issue-793009555](https://github.com/tradestars-app/testnet-bounty/issues/1#issue-793009555)
+Wallet: 0x24B1E3E454829b92e38f6bA4cF1071DE2bE54560
