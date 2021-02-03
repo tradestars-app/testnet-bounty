@@ -43,6 +43,6 @@ Issue: [https://github.com/tradestars-app/testnet-bounty/issues/4](https://githu
 Wallet: 0xD04433D5a60ADf6410c5b4A546562C18E69c8827
 
 ### Showing welcome popup to v1 users
-Issue: [https://github.com/tradestars-app/testnet-bounty/issues/1#issue-793009555](https://github.com/tradestars-app/testnet-bounty/issues/1#issue-793009555)
+Issue: [https://github.com/tradestars-app/testnet-bounty/issues/1](https://github.com/tradestars-app/testnet-bounty/issues/1)
 
 Wallet: 0x24B1E3E454829b92e38f6bA4cF1071DE2bE54560
