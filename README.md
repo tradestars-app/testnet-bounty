@@ -35,6 +35,7 @@ We have capped the amount of TSX reserved for this program at 100,000 TSX.
 # TESTNET BOUNTY REWARDS : 
 
 ### Search enhancement 
+
 Issue: [https://github.com/tradestars-app/testnet-bounty/issues/4](https://github.com/tradestars-app/testnet-bounty/issues/4)
 Wallet: 0xD04433D5a60ADf6410c5b4A546562C18E69c8827
 
